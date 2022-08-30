@@ -205,7 +205,8 @@ main {
 
 .wallpaper {
   width: 100%;
-  background-image: url(./assets/animated-season2018.gif);
+  background-image: url(./assets/animated-poppy.gif
+);
   background-size: cover;
   background-position: center;
   flex: 1;
